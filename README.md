@@ -1,0 +1,2 @@
+# vitemin
+Vite minimal template.
